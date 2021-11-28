@@ -588,8 +588,8 @@ Option Explicit
 
 '*******************************************************************************'
 '*                                                                             *##'
-'*                  Programmed by: Aris J. Buenaventura                        *##'
-'*                      email: AJB2001LG@YAHOO.COM                             *##'
+'*                  Programmed by: Aries J. Buenaventura                       *##'
+'*                      email: ariesbuenaventura2019@gmail.co                  *##'
 '*                     Date Created: Jan. 11,2002                              *##'
 '*                     Date Finished: Feb. 1, 2002                             *##'
 '*                                                                             *##'
@@ -730,8 +730,8 @@ End Sub
 
 '=============================================================================================
 Private Sub mnuAbout_Click()
-    MsgBox "Trigonometric Functions" & Chr(13) & "Programmed by: Aris Buenaventura" _
-        & Chr(13) & "Email : AJB2001LG@YAHOO.COM", , "Trigonometry Functions"
+MsgBox "Trigonometric Functions" & Chr(13) & "Programmed by: Aries Buenaventura" _
+& Chr(13) & "Email : ariesbuenaventura2019@gmail.com", , "Trigonometry Functions"
 End Sub
 
 '=============================================================================================
